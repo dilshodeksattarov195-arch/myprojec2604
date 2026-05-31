@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperualidate",
+        "uuid": 3960684,
+        "checksum": "0f1dqy"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
